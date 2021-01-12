@@ -1,0 +1,57 @@
+body {
+  background-color: antiquewhite;
+  font-family: 'Mali', cursive;
+}
+p {
+  margin-top: 0;
+}
+.top-part{
+  text-align: center;
+}
+.flashy {
+  color: red;
+  font-weight: bolder;
+  font-style: italic;
+}
+h1 {
+  margin-bottom: 0;
+}
+.center {
+  text-align: center;
+}
+
+.sidebar {
+  width: 30%;
+  float: left;
+}
+
+ul {
+  list-style: none;
+}
+
+.boxmodel1 {
+  margin: 30px;
+  border: 10px solid aquamarine;
+  padding: 4px;
+  background-color: orange;
+  box-sizing: border-box;
+  text-align: center;
+}
+
+.best {
+  font-weight: bolder;
+  font-size: 25px;
+}
+
+.fancyfont {
+  font-family: 'Alex Brush', cursive;
+  font-size: 80px;
+}
+
+.grass {
+  color: green;
+}
+
+.dirt {
+  color: brown;
+}
